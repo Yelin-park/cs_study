@@ -69,7 +69,7 @@
 ---
 
 ### 5. TCP/IP 4 Layer 구조 그림
-<img src="../image/tcp:ip4layer.png" width="500px"> </br>
+<img src="../image/tcpip4layer.png" width="500px"> </br>
 
 ---
 
